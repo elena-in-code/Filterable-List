@@ -1,0 +1,11 @@
+body {
+	background: lightgrey
+}
+h1 {
+	padding: 7px;
+	color:#403E3B;
+	border:10px double darkgrey;
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: darkgrey;
+}
